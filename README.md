@@ -68,8 +68,8 @@ This Power BI dashboard provides an interactive analysis of an e-commerce store'
 ## 👩‍💻 Author
 
 **Kumari Sweta**  
-Data Analyst | Power BI Developer  
-Created in **June 2025**
+Data Analyst  
+Created in **May 2025**
 
 ---
 
