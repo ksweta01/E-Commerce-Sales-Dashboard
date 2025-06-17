@@ -13,7 +13,6 @@ This Power BI dashboard provides an interactive analysis of an e-commerce store'
 ## 📁 Dataset Information
 
 - **Name:** Global Superstore 2016
-- **Source:** [Kaggle Dataset – Global Superstore](https://www.kaggle.com/datasets)
 - **Key Features:**
   - `Order Date`, `Ship Date`, `Sales`, `Profit`, `Quantity`, `Returns`
   - Categorical data like `Segment`, `Region`, `Country`, `Market`, `Product Name`, `Customer Name`
@@ -77,4 +76,4 @@ Created in **June 2025**
 ## 📎 File Info
 
 - **Dataset:** `global_superstore_2016.xlsx`
-- **Dashboard Screenshot:** `E-Commerce Dashboard.png`
+- **Dashboard Screenshot:** `https://github.com/ksweta01/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Dashboard.png`
