@@ -76,4 +76,4 @@ Created in **June 2025**
 ## 📎 File Info
 
 - **Dataset:** `global_superstore_2016.xlsx`
-- **Dashboard Screenshot:** `https://github.com/ksweta01/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Dashboard.png`
+- **Dashboard Screenshot:** ![Dashboard Preview](https://github.com/ksweta01/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Dashboard.png)
